@@ -1,0 +1,15 @@
+.Content {
+    border: 1px solid;
+    text-align: center;
+    height: 450px;
+    
+}
+
+.Content1 {
+    color: white;
+    margin: 62px 250px 0px;
+}
+
+.Content1 h1 {
+    font-size: 3rem;
+}
