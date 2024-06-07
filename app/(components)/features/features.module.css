@@ -1,18 +1,57 @@
-.image1{
-    border: 5px solid aqua;
+.image1 {
     width: 400px;
     height: 540px;
     margin-top: 9%;
     z-index: 1;
 }
-.image2{
+
+.image2 {
     width: 290px;
-    height: 450px; 
-    margin: 0px 1px 66px -34%;
+    height: 450px;
+    margin: 140px 114px 0px -400px;
     z-index: 2;
 }
 
-.features{
-    border: 1px solid blue;
+.features {
+    border: 1px solid;
     height: 736px;
-} 
+
+}
+
+.features2 {
+    display: flex;
+}
+
+.features3 {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 150px 230px 0px 0px;
+
+}
+
+.features3 h1 {
+    font-size: 35px;
+}
+
+#para1 {
+    font-size: 19px;
+    margin-top: -6px;
+}
+
+.features4 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: column;
+    line-height: 27px;
+}
+
+.gem {
+    display: flex;
+    flex-direction: column;
+    line-height: 27px;
+}

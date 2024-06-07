@@ -1,6 +1,7 @@
 import React from 'react'
 import Content from './(components)/content/content'
 import Features from './(components)/features/features'
+import Form from './(components)/form/form'
 
 export default function landingPage() {
   return (
@@ -24,7 +25,7 @@ export default function landingPage() {
       </div>
       <Content/>
       <Features/>
-
+      <Form/>
 
     </div>
   )
